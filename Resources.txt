@@ -1,0 +1,8 @@
+Diff command man page - https://man7.org/linux/man-pages/man1/diff.1.html
+Patch command man page - https://man7.org/linux/man-pages/man1/patch.1p.html
+Linux Journal - https://www.linuxjournal.com/article/3991
+Diff working - https://www.geeksforgeeks.org/diff-command-linux-examples/
+Patch working - https://acloudguru.com/blog/engineering/introduction-using-diff-and-patch#:~:text=The%20commands%20diff%20and%20patch,that%20contains%20only%20the%20differences.
+LCS Ovrview - https://www.youtube.com/watch?v=ASoaQq66foQ
+Most useful resource(Reasearch paper) - https://www.cs.dartmouth.edu/~doug/diff.pdf
+Workflow(Algorithm utility) - https://epxx.co/artigos/diff_en.html

@@ -1,0 +1,10 @@
+./diff file1.txt file2.txt
+./diff -c file1.txt file2.txt
+./diff -u file1.txt file2.txt
+./diff -i file1.txt file2.txt
+./diff -b file1.txt file2.txt
+./diff -w file1.txt file2.txt
+./diff -q file1.txt file2.txt
+./diff -u file1.txt file2.txt > file.patch
+./patch file1.txt file.patch
+./diff -s file1.txt file2.txt
